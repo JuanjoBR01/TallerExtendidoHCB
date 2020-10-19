@@ -1,0 +1,90 @@
+#nombre{
+    background-color: rgb(85, 85, 85);
+}
+#caracs{
+    background-color: rgb(61, 61, 61);
+}
+#fondoImg{
+    background-color: rgb(75, 75, 75);
+}
+#fondoImg2{
+    background-color: rgb(56, 56, 56);
+}
+.texto{
+    font-family: 'Anton', sans-serif;
+    color: lightgray;
+    font-size: small;
+    height: 78px;
+}
+.textoLigero{
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+}
+
+#ic1{
+    background-color: rgb(0, 190, 156);
+    height: 78px;
+}
+#ic2{
+    background-color: rgb(0, 154, 220);
+    height: 78px;
+}
+#ic3{
+    background-color: rgb(179, 88, 183);
+    height: 78px;
+}
+#ic4{
+    background-color: rgb(255, 127, 43);
+    height: 78px;
+}
+#ic5{
+    background-color: rgb(255, 75, 76);
+    height: 78px;
+}
+#ic6{
+    background-color: rgb(236, 171, 44);
+    height: 78px;
+}
+#panelLateral{
+    background-color: rgb(239, 239, 239);
+}
+
+p   {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-weight: 300;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.subt{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+#tray{
+    background-color: rgb(179, 88, 183);
+}
+.tratText{
+    color: whitesmoke;
+    text-align: center;
+}
+dt{
+    color: whitesmoke;
+    font-weight: 600;
+}
+#barras{
+    background-color: rgb(0, 153, 220);
+}
+
+
